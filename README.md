@@ -4,11 +4,11 @@ Este repositório contém os projetos desenvolvidos durante a **Imersão Intelig
 
 **Conteúdo:**
 
-*   [Aula 1](./aula01) - [Introdução à Inteligencia artificial e ao Google Ai Studio]
-*   [Aula 2](./aula02) - [Descrição da Aula 2]
-*   [Aula 3](./aula03) - [Descrição da Aula 3]
-*   [Aula 4](./aula04) - [Descrição da Aula 4]
-*   [Aula 5](./aula05) - [Descrição da Aula 5]
+*   [Aula 1](./Aula01) - [Introdução à Inteligencia artificial e ao Google Ai Studio]
+*   [Aula 2](./Aula02) - [Descrição da Aula 2]
+*   [Aula 3](./Aula03) - [Descrição da Aula 3]
+*   [Aula 4](./Aula04) - [Descrição da Aula 4]
+*   [Aula 5](./Aula05) - [Descrição da Aula 5]
 
 **Inteligência Artificial (IA): Preditiva vs. Generativa**
 
