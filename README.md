@@ -17,5 +17,5 @@ Este repositório contém os projetos desenvolvidos durante a **Imersão Intelig
 
 **Logos:**
 
-[![Alura](https://yt3.googleusercontent.com/W7GokEE6ydjZFa_Tpz6yvSsDlVPTe7d4yTsJqKXy1Gbhu1BGXCfKJ_I-_TzOq37m8R9S97kQ=s160-c-k-c0x00ffffff-no-rj)](https://www.alura.com.br/) [![Google AI Platform](https://cloud.google.com/images/ai-platform/ai-platform-logo.svg)](https://cloud.google.com/ai-platform) [![Google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)](https://www.google.com/) 
+[![Alura](https://yt3.googleusercontent.com/W7GokEE6ydjZFa_Tpz6yvSsDlVPTe7d4yTsJqKXy1Gbhu1BGXCfKJ_I-_TzOq37m8R9S97kQ=s160-c-k-c0x00ffffff-no-rj)](https://www.alura.com.br/) [![Google AI Platform](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052018/untitled-4_24.png?kuATI.1ctZUAukHU1eDafDo2Yk4QSglN&itok=_0pZRek-)](https://cloud.google.com/ai-platform) [![Google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)](https://www.google.com/) 
 
