@@ -1,0 +1,24 @@
+App Name] Terms of Use
+Digital Facit
+Last updated: [Date]
+Welcome to the [App Name] application! These Terms of Use ("Terms") govern your access and use of the [App Name] application ("App"), developed and operated by Digital Facit ("we," "us," or "our").
+1. Acceptance of Terms
+By downloading, installing, or using the App, you ("User" or "you") agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the App.
+2. Use of the App
+The [App Name] App offers [brief description of the app's functionalities]. You agree to use the App only for lawful purposes and in accordance with these Terms. You are responsible for maintaining the confidentiality of any passwords or accounts associated with the App.
+3. Privacy and User Data
+We respect your privacy and do not collect, store, or share any personal data or usage information from the App. The App functions independently and does not require access to any information from your device or account.
+4. Intellectual Property
+The App and all of its content, including but not limited to text, graphics, logos, icons, images, audio clips, and software, are the property of Digital Facit or its licensors and are protected by copyright laws and other intellectual property laws.
+5. Disclaimer of Warranties
+The App is provided on an "as is" and "as available" basis, without any warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the App will be uninterrupted, error-free, or secure.
+6. Limitation of Liability
+In no event shall we be liable for any direct, indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or use, arising out of or in connection with your use or inability to use the App, even if we have been advised of the possibility of such damages.
+7. Indemnification
+You agree to indemnify and hold harmless Digital Facit and its affiliates, directors, officers, and agents from and against any and all claims, liabilities, damages, losses, and expenses, including reasonable attorneys' fees, arising out of or in connection with your use or misuse of the App, or your violation of these Terms.
+8. Changes to Terms
+We reserve the right to modify these Terms at any time by posting the revised Terms on the App. It is your responsibility to review these Terms periodically. Your continued use of the App after the posting of any changes constitutes your acceptance of the new Terms.
+9. Governing Law and Jurisdiction
+These Terms shall be governed by and construed in accordance with the laws of Brazil. You agree to submit to the exclusive jurisdiction of the courts located in Brazil for any dispute arising out of or relating to these Terms or the App.
+10. Contact Us
+If you have any questions about these Terms, please contact us at: [Digital Facit email address]
